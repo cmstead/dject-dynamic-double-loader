@@ -1,0 +1,11 @@
+{
+  "name": "dject-dynamic-double-loader",
+  "version": "1.0.0",
+  "description": "A simple test double builder for Dject factory-style dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Stead",
+  "license": "MPL-2.0"
+}
